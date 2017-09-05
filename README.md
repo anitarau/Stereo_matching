@@ -1,8 +1,12 @@
+This repository accompanies my Master's Thesis:
 Learning Similarity for 3D Reconstruction of Intraoperative Environments with Convolutional Neural Networks
 
-This repository includes:
+I trained an CNN to predict disaprity in stereo images by learning similarity. 
+
+It includes:
 - 6 trained models
 - 5 .py files containing code for preprocessing, training, testing (on the Kitti data set) and predicting. 
+- 3 images to viualize the architecture. 
 
 The training/test set can be downloaded here:
 http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo
