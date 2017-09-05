@@ -4,15 +4,20 @@ This repository includes:
 - 6 trained models
 - 5 .py files containing code for preprocessing, training, testing (on the Kitti data set) and predicting. 
 
-We do not provide the test set, it can be downloaded here:
+The training/test set can be downloaded here:
 http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo
 
 stereoMatchingTraining:
-We trained our models on the KITTI dataset. To run the code, run load_kitti.py first and convert images to .npy. Change directory in stereoMatchingTraining.py to the correct dataset. 
+
+We trained our models on the KITTI dataset. Download the training set from the website and run load_kitti.py to convert images to .npy. Change directory in stereoMatchingTraining.py to the correct dataset and run.  
 
 stereoMatchingTesting:
+
 Change directory to correct validation set.
 
 stereoMatchingPredict:
-First run load_image.py to convert image to .npy-format. In stereoMatchingPredict.py choose model and change directory to load the correct weights. Also change the network that should be used in make_graph(). Change directory to images that are to be predicted. 
+
+First run load_image.py to convert (any) image to .npy-format. In stereoMatchingPredict.py choose model and change directory to load the correct weights. Also change the network that should be used in make_graph(). Change directory to images that are to be predicted. 
+
+Our best model is 7_layer_tv.
 
