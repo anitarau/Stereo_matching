@@ -1,0 +1,3 @@
+model_checkpoint_path: "/cs/student/msc/csml/2016/anitarau/9_layer_tv/kitti_9layer_2_400000"
+all_model_checkpoint_paths: "/cs/student/msc/csml/2016/anitarau/9_layer_tv/kitti_9layer_2_300000"
+all_model_checkpoint_paths: "/cs/student/msc/csml/2016/anitarau/9_layer_tv/kitti_9layer_2_400000"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/cs/student/msc/csml/2016/anitarau/4_layer/kitti_4layer_1.ckpt"
+all_model_checkpoint_paths: "/cs/student/msc/csml/2016/anitarau/4_layer/kitti_4layer_1.ckpt"

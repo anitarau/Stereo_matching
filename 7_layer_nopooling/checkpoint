@@ -1,0 +1,5 @@
+model_checkpoint_path: "/cs/student/msc/csml/2016/anitarau/7_layer_nopooling/7layer_nopooling_4"
+all_model_checkpoint_paths: "/cs/student/msc/csml/2016/anitarau/7_layer_nopooling/7layer_nopooling_1"
+all_model_checkpoint_paths: "/cs/student/msc/csml/2016/anitarau/7_layer_nopooling/7layer_nopooling_2"
+all_model_checkpoint_paths: "/cs/student/msc/csml/2016/anitarau/7_layer_nopooling/7layer_nopooling_3"
+all_model_checkpoint_paths: "/cs/student/msc/csml/2016/anitarau/7_layer_nopooling/7layer_nopooling_4"

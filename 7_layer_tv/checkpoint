@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/pbrandao/tensorflow_workstation/anita/7_layer_tv/kitti_7layer_2_300000"
+all_model_checkpoint_paths: "/home/pbrandao/tensorflow_workstation/anita/7_layer_tv/kitti_7layer_2_300000"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/cs/student/msc/csml/2016/anitarau/9_layer_nopooling_new/kitti_9layer_nopooling_2.ckpt"
+all_model_checkpoint_paths: "/cs/student/msc/csml/2016/anitarau/9_layer_nopooling_new/kitti_9layer_nopooling_2.ckpt"

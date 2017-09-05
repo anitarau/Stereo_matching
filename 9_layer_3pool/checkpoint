@@ -1,0 +1,5 @@
+model_checkpoint_path: "/home/pbrandao/tensorflow_workstation/anita/9_layer_3pool/kitti_9layer_3pool_1200000"
+all_model_checkpoint_paths: "/home/pbrandao/tensorflow_workstation/anita/9_layer_3pool/kitti_9layer_3pool_900000"
+all_model_checkpoint_paths: "/home/pbrandao/tensorflow_workstation/anita/9_layer_3pool/kitti_9layer_3pool_1000000"
+all_model_checkpoint_paths: "/home/pbrandao/tensorflow_workstation/anita/9_layer_3pool/kitti_9layer_3pool_1100000"
+all_model_checkpoint_paths: "/home/pbrandao/tensorflow_workstation/anita/9_layer_3pool/kitti_9layer_3pool_1200000"
